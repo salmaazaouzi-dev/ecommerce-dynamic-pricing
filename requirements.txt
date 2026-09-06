@@ -1,10 +1,6 @@
-playwright==1.40.0
-beautifulsoup4==4.12.2
-pandas==2.1.4
-numpy==1.26.2
-streamlit==1.29.0
-plotly==5.18.0
-transformers==4.36.2
-torch==2.1.2
-pytest==7.4.3
-pyyaml==6.0.1
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+numpy>=1.24.0
+streamlit>=1.28.0
+plotly>=5.15.0
+pyyaml>=6.0
